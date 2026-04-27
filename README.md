@@ -24,11 +24,11 @@ The system allows:
 
 ## 👩‍🏫 Team Members
 - Fatima Abdullah  
-- Nora Saad  
+- Norah Saad  
 - Raghad Abdulrahman  
 - Juana Mesfer  
 - Nasayim Salem  
-- Amjad  
+- Amjad alhailm 
 
 ---
 
