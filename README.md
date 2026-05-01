@@ -80,7 +80,9 @@ Encapsulation is used here to restrict direct access to sensitive data. Instead 
 
 This design improves security and follows best practices in OOP by separating internal data representation from external access.
 
-##NORA SAAD ( INHIRTANCE)
+
+🔹 NORAH SAAAD (INHIRTANCE)
+
 
 class Student(Person):
     def __init__(self, name, person_id, grade):
@@ -97,6 +99,8 @@ The Student class extends the functionality of Person by adding a new attribute 
 Additionally, the display() method is responsible for presenting the student’s data in a readable format. This improves user interaction and makes the output more organized.
 
 This part of the code clearly shows how inheritance reduces code duplication and improves structure.
+
+
 
 🔹 Raghad Abdulrahman & Juana Mesfer (File Handling)
 
@@ -124,6 +128,8 @@ The load_students() function reads student data from the file students_data.txt.
 The save_students() function is responsible for writing updated data back into the file. It loops through the student list and stores each student’s information in a structured format.
 
 Together, these functions ensure that all operations (add, update, delete) are preserved even after the program is closed. This fulfills the requirement of file handling and demonstrates how programs interact with external storage.
+
+
 
 🔹 Nasayim Salem & Amjad (Main Program Logic)
 
